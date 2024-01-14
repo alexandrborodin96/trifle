@@ -1,0 +1,27 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="icon_message" clip-path="url(#clip0_72_175)">
+<g id="Vector">
+<path d="M13.6593 71L22.2886 63.6699L13.6593 56.3397V59.8841C9.39031 59.8841 5.6915 59.3124 3 54.678C3 63.6426 7.64365 67.4556 13.6593 67.4556V71Z" stroke="#33CCCC" stroke-width="2.5" stroke-miterlimit="22.9256" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M65.3407 2L56.7114 9.33014L65.3407 16.6601V13.1157C69.6097 13.1157 73.3085 13.6874 76 18.3219C76 9.35743 71.3563 5.54442 65.3407 5.54442V2Z" stroke="#33CCCC" stroke-width="2.5" stroke-miterlimit="22.9256" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="Group 1">
+<g id="Group">
+<path id="Vector_2" d="M50.3502 23.6234V39.5M50.3502 15.6906V9.9916C50.3502 9.44394 49.9031 9 49.3517 9H2.22118C1.6697 9 1.22266 9.44394 1.22266 9.9916V42.7143C1.22266 43.2619 1.6697 43.7059 2.22118 43.7059H38.5" stroke="black" stroke-width="3" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M1.53516 9.27148C9.40015 16.0969 17.2643 22.9224 25.1293 29.7488C25.3112 29.9067 25.5447 29.9937 25.7864 29.9937C26.0281 29.9937 26.2615 29.9067 26.4435 29.7488C34.3085 22.9224 42.1726 16.0969 50.0376 9.27148M21.2161 26.3527C14.6558 32.0475 8.09548 37.7402 1.53516 43.434M45.9995 40C39.4392 34.3063 36.917 32.0475 30.3566 26.3527" stroke="black" stroke-width="3" stroke-miterlimit="10" stroke-linejoin="round"/>
+</g>
+<ellipse id="Ellipse 1" cx="50.3184" cy="19.7087" rx="1.02935" ry="1.02221" fill="black"/>
+</g>
+<g id="Group 2">
+<g id="Group_2">
+<path id="Vector_4" d="M76.8032 51.2526V65.9429C76.8032 66.3643 76.4592 66.7059 76.0349 66.7059H39.7684C39.344 66.7059 39 66.3643 39 65.9429V40.763C39 40.3416 39.344 40 39.7684 40H76.0349C76.4592 40 76.8032 40.3416 76.8032 40.763V45.1484" stroke="black" stroke-width="2.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_5" d="M39.2402 40.209C45.2923 45.4611 51.3436 50.7132 57.3957 55.9661C57.5357 56.0876 57.7154 56.1546 57.9013 56.1546C58.0873 56.1546 58.267 56.0876 58.407 55.9661C64.4591 50.7132 70.5104 45.4611 76.5625 40.209M54.3846 53.3529C49.3365 57.7349 44.2883 62.1154 39.2402 66.4967M76.5625 66.4967C71.5143 62.1154 66.4662 57.7349 61.4181 53.3529" stroke="black" stroke-width="2.5" stroke-miterlimit="10" stroke-linejoin="round"/>
+</g>
+<ellipse id="Ellipse 1_2" cx="76.7804" cy="48.2402" rx="0.792079" ry="0.786582" fill="black"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_72_175">
+<rect width="80" height="80" fill="white"/>
+</clipPath>
+</defs>
+</svg>
